@@ -547,4 +547,4 @@ if st.button("Prepare CSV of dataset analysis"):
     csv = out.to_csv(index=False)
     st.download_button("Download CSV", csv, file_name="gender_bias_analysis.csv")
 
-st.caption("Add more occupations or mappings in the sidebar to increase coverage. For production-grade accuracy, create a labeled dataset and fine-tune a transformer model.")
+st.caption("CREATED BY 22MIY0014|22MIY0015|22MIY0070")
